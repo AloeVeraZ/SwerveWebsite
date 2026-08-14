@@ -4,10 +4,10 @@
 
 ### A single page technical reference for Systemcore, Motioncore, A301, swerve, mecanum, vision, and testing
 
-[![Format](https://img.shields.io/badge/format-Single_Page_HTML-111111?style=for-the-badge&logo=html5&logoColor=white)](swerchanumv2.html)
-[![Theme](https://img.shields.io/badge/theme-Black_%2F_Gray_%2F_White-3f3f46?style=for-the-badge)](#design)
-[![Content](https://img.shields.io/badge/content-Engineering_Documentation-6b7280?style=for-the-badge)](#documentation-coverage)
-[![Status](https://img.shields.io/badge/status-Reference_Build-111111?style=for-the-badge)](#use)
+[![Format](https://img.shields.io/badge/format-Single_Page_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=9A3412)](swerchanumv2.html)
+[![Theme](https://img.shields.io/badge/theme-Black_%2F_Gray_%2F_White-8B5CF6?style=for-the-badge&labelColor=6D28D9)](#design)
+[![Content](https://img.shields.io/badge/content-Engineering_Documentation-0EA5E9?style=for-the-badge&labelColor=0369A1)](#documentation-coverage)
+[![Status](https://img.shields.io/badge/status-Reference_Build-22C55E?style=for-the-badge&labelColor=15803D)](#use)
 
 A self contained engineering documentation site with a searchable navigation system, responsive layout, hardware references, setup guidance, and troubleshooting material.
 
