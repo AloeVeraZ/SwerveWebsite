@@ -4,10 +4,7 @@
 
 ### A single page technical reference for Systemcore, Motioncore, A301, swerve, mecanum, vision, and testing
 
-[![Format](https://img.shields.io/badge/format-Single_Page_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=9A3412)](swerchanumv2.html)
-[![Theme](https://img.shields.io/badge/theme-Black_%2F_Gray_%2F_White-8B5CF6?style=for-the-badge&labelColor=6D28D9)](#design)
-[![Content](https://img.shields.io/badge/content-Engineering_Documentation-0EA5E9?style=for-the-badge&labelColor=0369A1)](#documentation-coverage)
-[![Status](https://img.shields.io/badge/status-Reference_Build-22C55E?style=for-the-badge&labelColor=15803D)](#use)
+<img alt="Format: Single Page HTML" src="https://img.shields.io/badge/format-Single_Page_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=9A3412"> <img alt="Theme: Black, Gray, and White" src="https://img.shields.io/badge/theme-Black_%2F_Gray_%2F_White-8B5CF6?style=for-the-badge&labelColor=6D28D9"> <img alt="Content: Engineering Documentation" src="https://img.shields.io/badge/content-Engineering_Documentation-0EA5E9?style=for-the-badge&labelColor=0369A1"> <img alt="Status: Reference Build" src="https://img.shields.io/badge/status-Reference_Build-22C55E?style=for-the-badge&labelColor=15803D">
 
 A self contained engineering documentation site with a searchable navigation system, responsive layout, hardware references, setup guidance, and troubleshooting material.
 
